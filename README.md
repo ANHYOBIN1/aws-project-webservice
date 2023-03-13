@@ -30,6 +30,11 @@
 ![스크린샷 2023-03-09 오후 5 00 26](https://user-images.githubusercontent.com/109785531/223961047-e12c92ed-28bc-4232-aa20-02715914c083.png)
 
 
+- JPA와 스프링을 이용한 게시판 글 등록 화면
+
+
+
 ![스크린샷 2023-03-09 오후 5 13 25](https://user-images.githubusercontent.com/109785531/223960912-4da80afb-0d4d-469a-ab4f-e76ec8c0c1e1.png)
 
 
+- 스프링 시큐리티와 서드파티 로그인을 이용한 로그인 기능
